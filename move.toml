@@ -1,0 +1,15 @@
+[package]
+name = "DEX"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule ="0x3f3e883b95bd9638c5503c145e22327d52445f2f8f887b7eeb54705c2569276e"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
