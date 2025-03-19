@@ -23,5 +23,6 @@ Our vision is to provide a simple yet effective decentralized trading experience
 
 - ## Contract Address: 0x63042e3051c1d250e663d9eda16584eb678bdce08ab6a9d4e383298e1cd3e631
 
-This project is an initial step toward a more comprehensive DeFi ecosystem on Aptos. Contributions and improvements are always welcome!
+
+![image](https://github.com/user-attachments/assets/ce652bb2-a606-49e5-be6f-e2f52ef73783)
 
